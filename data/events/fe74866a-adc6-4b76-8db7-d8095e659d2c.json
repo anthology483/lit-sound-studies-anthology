@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "85594e43-bacc-4432-971f-88cc31ac23bd": {
+      "label": "1-100",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://media.sas.upenn.edu/pennsound/authors/Bernstein/Class/Bernstein-Charles_02_1-100_1969-remastered.mp3",
+      "duration": 195
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "1-100",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"1-100\" is an avant-garde poem by Charles Bernstein that teeters the lines between art and satire that all depends on his performance, which he executes masterfully. This is a poetry performance that needs no transcription because the poem itself is not the main attraction, Bernstein and his establishment of the sound of the poem that is in no way deducible from the text is. That is what I hope to show in my annotations."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-08-12T22:15:07.019Z",
+  "created_by": "saamturner",
+  "updated_at": "2025-08-12T22:15:07.019Z",
+  "updated_by": "saamturner"
+}
