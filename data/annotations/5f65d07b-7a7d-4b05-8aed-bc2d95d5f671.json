@@ -1,5 +1,476 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown shuffling noise, Bernstein exhales before he begins. There is not much known about the text of \"1-100\" or this recording, other than it was possibly created and performed while he attended college. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "c240680c-0473-48a5-9e62-6c0f0ad015f8"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The counting speed accelerates. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "611d3b3c-b433-4c62-955b-a257e96d3ae7"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "9 and 10 are shouted"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "cc5da496-62b5-4b52-b085-c31f9c58e3db"
+    },
+    {
+      "start_time": 13,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The numbers are read calmly with a disinterested tone"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "249d5f0e-daca-4387-b73f-40fb439b5588"
+    },
+    {
+      "start_time": 26,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown sounds in the background"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "69c1fbb8-3a26-46f3-ba34-c109c6c5273c"
+    },
+    {
+      "start_time": 27,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The way we think about groups of numbers and our expectations from how the poem has gone so far may condition us to think that 20 would have been shouted, but instead it is 21 and 22 that gain volume here"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "00092da8-495b-446b-b4af-cdb0b8094c3e"
+    },
+    {
+      "start_time": 31,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next few numbers are read off quickly, as if anticipation is building for the next multiple-of-ten to come"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "ce9c2692-bf00-4dd1-b85a-45939ce8f60f"
+    },
+    {
+      "start_time": 35,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vocal strength and loudness pick up, and certain words are dragged out until 30 is read with a shout. There are also the sounds of someone in the background speaking, then laughing. This suggests that there could be others in the room or near Bernstein as he performs this piece"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "e92ba569-7e22-4240-99d8-47a386b34b2f"
+    },
+    {
+      "start_time": 43,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After 31, the numbers are shortened to their second digit, but conflictingly their syllables are elongated in their pronunciation"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "fe737377-4c60-4e86-bb30-26d7f7163212"
+    },
+    {
+      "start_time": 46,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "34-39 are still shortened to one digit, but the tempo picks up and they are read through very quickly. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "f372b7a5-9fd9-47a7-af67-4ee7642dd2d8"
+    },
+    {
+      "start_time": 49,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A small climax is reached and 40 is delivered with a shout"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "6be5508a-ae51-4885-a572-63d6a3fbaea1"
+    },
+    {
+      "start_time": 52,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "41-45 are spoken with a warbled tone "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "92594f44-d9d1-45f7-b4e9-5aa94de40425"
+    },
+    {
+      "start_time": 58,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "46 and 47 are highlighted randomly with a quick delivery that picks up volume"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "46e7525d-c15f-4a40-89d7-b1be6cda4ad1"
+    },
+    {
+      "start_time": 61,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tone quality changes again with a softer delivery"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "a412c6be-341e-4415-817a-96a88be0e045"
+    },
+    {
+      "start_time": 68,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Slowly, volume and speed begin to increase. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "f1b82a9d-6ffe-4e43-a5b1-80cff189daa1"
+    },
+    {
+      "start_time": 76,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The numbers grow louder and there is a frantic edge to the counting. Listeners can hear a distorted twinge to the numbers, possibly due to the recording equipment used or damage to the physical recording."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Technical Sounds",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "fcb624c8-c13d-4d87-a1e2-09f6f428f801"
+    },
+    {
+      "start_time": 92,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Words are lengthened, and the volume increases further. The pitch changes as well, and some numbers are exaggerated with a howl-like moaning. The tone indicates an excited panic; perhaps because we are getting increasingly closer to 100"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "0eaa5755-be9d-4f80-8906-c62450d35dd4"
+    },
+    {
+      "start_time": 132,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It sounds as if the recording device's maximum capacity was exceeded by this frenzied, animalistic delivery of the 80s. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Technical Sounds",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "34788054-66ce-4d9f-ad88-dee73b19dc26"
+    },
+    {
+      "start_time": 185,
+      "end_time": 193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "99, the penultimate number, is screamed painfully and agonizingly. The second digit is held until it turns into a weak groan that ends with a gasp as if Bernstein has been snapped out of a trance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "8ba129cf-e107-430d-bb55-7fea4a606ba3"
+    },
+    {
+      "start_time": 194,
+      "end_time": 195,
+      "annotation": [
+        {
+          "text": "The final number is read calmly and in Bernstein's regular speaking voice, denying listeners of reaching the apex with the excitement or anticipation built with the performance of the previous numbers. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Instead of pronouncing 100 as \"one hundred,\" Bernstein instead says \"a hundred.\" Perhaps it is just a more naturally flowing linguistic habit, but it could also be purposeful with the satiric and informal nature of the poem. "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "01b1f0d4-d798-437d-a116-7d7c6f7fc52f"
+    }
+  ],
   "set": "Default",
   "event_id": "fe74866a-adc6-4b76-8db7-d8095e659d2c",
   "source_id": "85594e43-bacc-4432-971f-88cc31ac23bd"
