@@ -4,7 +4,18 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": true
+    },
+    {
+      "login_name": "saamturner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "anthology483",
     "is_private": false,
@@ -22,6 +33,27 @@
       "tags": []
     },
     "created_at": "2025-08-12T21:40:42.261Z",
-    "updated_at": "2025-08-12T21:40:42.261Z"
-  }
+    "updated_at": "2025-08-12T21:40:42.261Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "f135957c-8347-4f21-9635-6993efe875c8": {
+      "content": [],
+      "created_at": "2025-08-12T21:40:42.280Z",
+      "created_by": "saamturner",
+      "title": "August Testing on English 483 Org.",
+      "updated_at": "2025-08-12T21:40:42.280Z",
+      "updated_by": "saamturner",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "f135957c-8347-4f21-9635-6993efe875c8"
+  ]
 }
