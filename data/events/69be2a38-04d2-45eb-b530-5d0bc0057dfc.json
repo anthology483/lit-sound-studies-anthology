@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "f62d8076-e975-40c9-811a-deea8039a379": {
+      "label": "Seven Poem",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://soundcloud.com/harriet-61222230/sevenpoem?si=4aa6eab4e51b4e06928d08e4da21a5f0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+      "duration": 182
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Seven Poem",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A recording of the poem \"Seven.\" The poem debuted at the Eras Tour in 2022. Taylor Swift performs the poem."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-08-12T21:53:38.321Z",
+  "created_by": "saamturner",
+  "updated_at": "2025-08-12T21:53:38.321Z",
+  "updated_by": "saamturner"
+}
