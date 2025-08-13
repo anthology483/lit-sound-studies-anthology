@@ -1,1 +1,170 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"tanyaclement","avatar_url":"https://avatars.githubusercontent.com/u/1213771?v=4","admin":true},{"login_name":"saamturner","avatar_url":"https://avatars.githubusercontent.com/u/157153031?v=4","admin":true}],"project":{"github_org":"anthology483","is_private":false,"title":"August Testing on English 483 Org.","description":"August Testing on English 483 Org.","language":"en","slug":"lit-sound-studies-anthology","creator":"saamturner","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Background","color":"#ADFFD9"},{"category":"Form","color":"#ADFEFF"},{"category":"Performance","color":"#99E6FF"},{"category":"Extra-Poetic Sounds","color":"#88C9F2"},{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"tag":"Transcription","category":"Background"},{"tag":"Context","category":"Background"},{"tag":"Identification","category":"Background"},{"tag":"Definition","category":"Background"},{"tag":"Caesura","category":"Form"},{"tag":"Rhyme","category":"Form"},{"tag":"Meter","category":"Form"},{"tag":"Verse Structure","category":"Form"},{"tag":"Tempo","category":"Performance"},{"tag":"Pitch","category":"Performance"},{"tag":"Duration","category":"Performance"},{"tag":"Amplitude","category":"Performance"},{"tag":"Timbre","category":"Performance"},{"tag":"Technical Sounds","category":"Extra-Poetic Sounds"},{"tag":"Speech","category":"Extra-Poetic Sounds"},{"tag":"Ambient Noise","category":"Extra-Poetic Sounds"},{"tag":"Audience Sounds","category":"Extra-Poetic Sounds"},{"category":"_uncategorized_","tag":"Extra-Poetic Sound"},{"category":"_uncategorized_","tag":"Volume"},{"category":"_uncategorized_","tag":"Michael"},{"category":"_uncategorized_","tag":"Natalie"},{"category":"_uncategorized_","tag":"Audience Sound"}]},"created_at":"2025-08-12T21:40:42.261Z","updated_at":"2025-08-13T15:17:39.971Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"f135957c-8347-4f21-9635-6993efe875c8":{"content":[],"created_at":"2025-08-12T21:40:42.280Z","created_by":"saamturner","title":"August Testing on English 483 Org.","updated_at":"2025-08-12T21:40:42.280Z","updated_by":"saamturner","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["f135957c-8347-4f21-9635-6993efe875c8"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": true
+    },
+    {
+      "login_name": "saamturner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "anthology483",
+    "is_private": false,
+    "title": "August Testing on English 483 Org.",
+    "description": "This project showcases 2x student projects from the English 483: Listening to Literary Sound Studies course taught by Dr. Michael O'Driscoll during the Spring '25 semester at the University of Alberta. ",
+    "language": "en",
+    "slug": "lit-sound-studies-anthology",
+    "creator": "saamturner",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Background",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Form",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Performance",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Extra-Poetic Sounds",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "tag": "Definition",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Rhyme",
+          "category": "Form"
+        },
+        {
+          "tag": "Meter",
+          "category": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Technical Sounds",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sound"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Sound"
+        }
+      ]
+    },
+    "created_at": "2025-08-12T21:40:42.261Z",
+    "updated_at": "2025-08-13T15:56:53.562Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "f135957c-8347-4f21-9635-6993efe875c8": {
+      "content": [],
+      "created_at": "2025-08-12T21:40:42.280Z",
+      "created_by": "saamturner",
+      "title": "August Testing on English 483 Org.",
+      "updated_at": "2025-08-12T21:40:42.280Z",
+      "updated_by": "saamturner",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "f135957c-8347-4f21-9635-6993efe875c8"
+  ]
+}
