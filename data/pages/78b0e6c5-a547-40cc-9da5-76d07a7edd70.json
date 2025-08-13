@@ -1,0 +1,40 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://ia800108.us.archive.org/0/items/untitled-design_20250328_2253/Untitled%20design.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Clearing 1",
+  "parent": "44d8f966-19ae-4cf8-a840-fa7c460e687f",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "clearing-1",
+  "created_at": "2025-08-13T15:13:01.749Z",
+  "created_by": "saamturner",
+  "updated_at": "2025-08-13T15:13:01.749Z",
+  "updated_by": "saamturner"
+}
