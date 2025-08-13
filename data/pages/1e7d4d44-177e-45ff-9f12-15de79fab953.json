@@ -1,0 +1,40 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://archive.org/download/clearing4/clearing4.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Clearing 5",
+  "parent": "44d8f966-19ae-4cf8-a840-fa7c460e687f",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "clearing-5",
+  "created_at": "2025-08-13T15:15:05.176Z",
+  "created_by": "saamturner",
+  "updated_at": "2025-08-13T15:15:05.176Z",
+  "updated_by": "saamturner"
+}
