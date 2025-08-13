@@ -1,0 +1,340 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The function of this project is to contribute to the body of annotations devoted to unconventional poetry performances in literary studies. This project annotates Charles Bernstein’s 1969 (remastered 2009) original performance of “1-100” to achieve this commitment. As Clement and Fischer contend, annotations grant access to culturally significant objects (16), meaning they have a role in dictating what is deemed culturally significant. Through the theoretical lenses of what is known as “poet voice” (MacArthur 2016) and “aurality” (Bernstein 1998), this project asserts that the study of unconventional poetry performances necessarily expands the realm of literary studies to include worlds of sound to which we are just now awakening."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "By nature, Bernstein’s singular performance requires annotations that address the inimitable sound shapes of the recording. Although Bernstein’s performance seemingly hints at the presence of metre and tempo as measures of poetic form in small portions of his performance, these qualities do not take precedence in my annotations due to their ephemerality. Additionally, I do not provide a transcription. Its absence acts as an indicative of the accessibility of the performance’s content. The content is what the title suggests: the numbers from one to one hundred. This simplicity plays a key role in my argument that aural annotations create significance, which will be discussed later. The sound event does not include background such as contextual information, definition, or identification. Therefore, performance and extra-poetic sounds are the main tag groups my annotations deploy. Specifically, most of my annotations are focused on changes in pitch, duration, and amplitude throughout the three minute, fifteen second sound event while caesura, ambient noise, and technical sounds largely describe what remains. Due to the unique characteristics of Bernstein’s performance, annotating it takes careful attention to detail. There are no predictable schemes or patterns in his performance. Each set of ten numbers take up varying stretches of time. His pitch leaps, lilts, and drops. Dramatic crescendos and sudden bursts of intensity afford a mass of annotations on amplitude. These attributes construct a very unconventional performance that is both challenging and fun to annotate."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": " The lack of regularity in Bernstein’s performance contravenes all constraints of Marit J. MacArthur’s concept of “poet voice.” In “Monotony, the Churches of Poetry Reading, and Sound Studies” (2016), MacArthur describes poet voice or monotonous incantation using three characteristics (44):"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "            (1) the repetition of a falling cadence within a narrow range of pitch;"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "            (2) a flattened affect that suppresses idiosyncratic expression of subject matter in favor of a restrained, earnest tone; and"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "            (3) the subordination of conventional intonation patterns dictated by particular syntax, and of the poetic effects of line length and line breaks, to the"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "            prevailing cadence and slow, steady pace."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Bernstein’s performance violates all three: (1) Bernstein exhibits a wide range of pitch with very little repetition of cadence; (2) his style is ostensibly idiosyncratic in expression and rarely restrained in tone; (3) Bernstein only once adopts a “slow, steady pace” (MacArthur 44) for a short time (0:00:13-0:00:25) before returning to his peculiar performance, seemingly mocking this quality of poet voice. In these ways, Bernstein rejects the attributes of poet voice, opting instead for his own style of performance. It is this style and its eccentricities which produce the substance of the poem. While poet voice limits a performance’s ability to contribute to the poem’s meaning, Bernstein’s performance crafts the meaning of the poem, which is left to the listener to identify and interpret. This unique ability of unconventional poetry performances to participate in the meaning-making process of the poem is precisely what lends them so well to study and annotation."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "“1-100” presents a case in which annotations catalyse significance for the object or event to which they are attached. As Clement & Fischer claim in their article in "
+                },
+                {
+                  "text": "Digital Humanities Quarterly",
+                  "italic": true
+                },
+                {
+                  "text": " (2021), “audiated annotations – annotations that are unauthorized, decentralized, and composite – sometimes serve as the only access point into important cultural objects in literary study” (16). Although the public and literary scholars might not hold annotations in high regard because they are detached from the author and decentralized, annotations are fundamental in catalysing an object/event’s cultural substance. They achieve this end by making an object/event as clearly accessible as possible. Access facilitates widespread popularity and brings an object/event into the mainstream. Subsequently, the object/event is available for further consideration, analysis, and enjoyment by audiences and will grow in cultural import."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Annotations are often overlooked, but they play an integral role in making an object/event more accessible and thus more culturally significant. Following this logic, annotating Bernstein’s “1-100” audiotext is an act of transformation of the sound event. By providing annotations of “1-100,” I am generating an access point to the sound event and endowing it with the potential for easier discoverability and cultural significance. In other words, the sound event is worth studying not because it is part of the literary mainstream but because it is excluded. It is a poetry performance that refutes poet voice. Because of its oppositional position, “1-100” should be brought into the mainstream as an example of a foil for conventional performances. This introduction along with other similar annotative works would render the field of literary studies more well-rounded. However, this performance first needs annotations to garner cultural significance, and that is exactly what I am offering with this project."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Not only are my annotations an act of transformation of Bernstein’s “1-100,” but so is his performance. In his introduction to "
+                },
+                {
+                  "text": "Close Listening: Poetry and the Performed Word",
+                  "italic": true
+                },
+                {
+                  "text": " (1998), Charles Bernstein himself states that poetry readings result in “a proliferation of possible frames of interpretation” for a poem, asserting that performances are “extralexical but... not extrasemantic” (Bernstein 5). Since the performance of a poem embodies possible meanings, it should not be treated as secondary or marginal when it comes to interpretation. Rather, Bernstein argues, it should be considered as a medium of its own (4). In his performance, Bernstein proves that performances of poetry should not be treated as subordinate in meaning-making. His vocal quirks make it quite clear that poetry performances are “constitutive” and materialize possibilities of sense in poetry (Bernstein 4). In other words, just as annotations create meaning for objects/events of study, performances create meaning for poems. Bernstein experiments with this concept by performing the numbers one to one hundred in a theatrical and unpredictable way, thereby relying on his performance of the rudimentary content to invent meaning."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Importantly, Bernstein’s “1-100” has no author, further obliging the listener to attend solely to the aurality of the poem rather than to the author or the poem itself. Consequently, listeners are hindered from defaulting to put the performance on their “disattend track” (Bernstein 5) while privileging the poem’s written, visual content. The lack of a poet and the familiarity of the poem’s content leave the poem’s semantic creation in the hands of the performer and the listener’s perception of his performance. Rather than deriving all its meaning from its authorship and printed matter, “1-100” finds its meaning in the visceral space of communication between the oral performance and the aural interpretation. This poem is but one example of how the study of unconventional poetry performances results in greater opportunities for the creation of meaning and the evolution of literary studies."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Taking a turn towards unusual poetry performances unlocks a world of possibilities for literary studies. However, this world of possibilities may be both daunting in its broadness and maddening in its inaccessibility. Without the constrictions of mainstream poetry performances, the options for study and annotation are exponentially multiplied. A good place to start is with the events which are most neglected of study: those that are furthest from the mainstream. Coincidentally, studying these events will create a subfield of sound studies which counters that of poet voice. As with most fields of study, it is shrewd to cover at least both ends of the continuum. However, most of these events are not easily obtained for such study due to their lack of popularity. Because they have refuted poet voice conventions, they have not been permitted cultural significance by way of aurality, and they will not be as easy to find. Therefore, we must lean on other methods besides passively feeding on the mainstream to find the events we wish to study. We might connect to poets in our city or use resources already doing the work, such as UbuWeb, as a stepping-off point for our independent study. By lending an ear to unconventional poetry performances, we reward and encourage their production, further cultivating this area of literary scholarship."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Works Cited",
+                  "textSize": "heading-two"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-two",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Bernstein, Charles. "
+                },
+                {
+                  "text": "Close Listening: Poetry and the Performed Word",
+                  "italic": true
+                },
+                {
+                  "text": ". Oxford University Press, pp. 3-26, 1998."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Clement, Tanya E., and Liz Fischer. “Audiated Annotation from the Middle Ages to the Open Web.” "
+                },
+                {
+                  "text": "Digital Humanities Quarterly",
+                  "italic": true
+                },
+                {
+                  "text": ", vol. 15, no. 1, 2021,"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "            "
+                },
+                {
+                  "type": "link",
+                  "url": "http://www.digitalhumanities.org/dhq/vol/15/1/000512/000512.html",
+                  "children": [
+                    {
+                      "text": "http://www.digitalhumanities.org/dhq/vol/15/1/000512/000512.html"
+                    }
+                  ]
+                },
+                {
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "MacArthur, Marit J. “Monotony, the Churches of Poetry Reading, and Sound Studies.” "
+                },
+                {
+                  "text": "PMLA ",
+                  "italic": true
+                },
+                {
+                  "text": "131.1, Modern Language Association of America, 2016."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "[IYLA ESSAY] Expanding Literary Studies through Annotation: Charles Bernstein’s Eccentric “1-100”",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "iyla-essay-expanding-literary-studies-throu",
+  "created_at": "2025-08-13T16:23:01.728Z",
+  "created_by": "saamturner",
+  "updated_at": "2025-08-13T16:23:01.728Z",
+  "updated_by": "saamturner"
+}
