@@ -136,12 +136,137 @@
                   "text": "Overall, Maya Angelou’s poem, “And Still I Rise” is a motivational piece that transcends generations and resonates with many people. Angelou’s written work and the audiotext both play a role in the performance of the text. The annotations I conducted focus on the difference between the written work and the audiotext, specifically the way in which Angelou changes the order of the words, the substitution of certain words, or the omission of words in certain lines, in order to capture whether or not the intended message of the poem is changed as a result. However, I did struggle with finding a balance between analyzing the audiotext and written work and Angelous vocal performance, and found myself leaning towards the latter more. Although I made a few comments about Angelou’s voice, they were not as detailed as I hoped, and writing about it in this essay allowed me to explore it in more depth and think about her vocal performance in relation to the poem’s overall message. Moreover, it allowed me to realize that her vocal technique did play a role in Angelou’s intention with the poem’s message and how she intended the listener to interpret the piece."
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             },
             {
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n\n"
+                  "text": "Works Cited",
+                  "textSize": "heading-two"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Angelou, Maya. \"Still I Rise.\" Still I Rise. Random House Press, 1978."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Angelou, Maya. \"Still I Rise.\" https://ia800109.us.archive.org/15/items/sample-02_202502/Sample%2002.mp3. Accessed 6 April 2025."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Eidsheim, Nina Sun. "
+                },
+                {
+                  "text": "The Race of Sound: Listening, Timbre, and Vocality in African American Music",
+                  "italic": true
+                },
+                {
+                  "text": ". Duke University Press, 2019, p. 11."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "MacArthur, Marit J. \"Monotony, the Churches of Poetry Reading, and Sound Studies.\" PMLA, vol. 131, no. 1, January 2016. p. 59."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Juan, DU. \"Interpretation of Black Culture by Maya Angelou Through Music Poetry.\" Studies in Literature and Language, vol. 12, no. 6, June 2016, p. 83. CORE, https://core.ac.uk/download/pdf/236303981.pdf. \n"
                 }
               ]
             }
@@ -158,15 +283,15 @@
       ]
     }
   ],
-  "title": "And Still I Rise: Francine's Introduction",
+  "title": "Still I Rise: Introduction",
   "parent": "872cab5f-279c-4130-bfdc-0d5100bb26ca",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "and-still-i-rise-francines-introduction",
+  "slug": "still-i-rise-introduction",
   "created_at": "2025-08-13T14:26:42.559Z",
   "created_by": "saamturner",
-  "updated_at": "2025-08-13T14:26:42.559Z",
+  "updated_at": "2025-08-15T15:10:25.891Z",
   "updated_by": "saamturner"
 }
