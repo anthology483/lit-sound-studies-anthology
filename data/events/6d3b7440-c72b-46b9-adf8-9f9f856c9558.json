@@ -10,7 +10,7 @@
   },
   "auto_generate_web_page": true,
   "citation": "Bernstein, Charles. \"1-100.\" 1969, remastered 2009.",
-  "label": "1-100 Poem Reading by Charles Bernstein",
+  "label": "Astrid Annotates Bernstein's \"1-100\"",
   "description": [
     {
       "type": "paragraph",
@@ -23,6 +23,9 @@
   ],
   "created_at": "2025-08-15T14:23:59.974Z",
   "created_by": "saamturner",
-  "updated_at": "2025-08-15T14:23:59.974Z",
-  "updated_by": "saamturner"
+  "updated_at": "2025-08-15T14:24:52.954Z",
+  "updated_by": "saamturner",
+  "av_file_order": [
+    "dd3ccd48-a9cf-4458-a4c6-adf53f76812a"
+  ]
 }
