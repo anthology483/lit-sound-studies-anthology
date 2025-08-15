@@ -10,7 +10,7 @@
   },
   "auto_generate_web_page": true,
   "citation": "Bernstein, Charles. “1-100.” (1969, remastered 2009) 3:16",
-  "label": "\"1-100\"",
+  "label": "Iyla Annotates Bernstein's \"1-100\"",
   "description": [
     {
       "type": "paragraph",
@@ -23,6 +23,9 @@
   ],
   "created_at": "2025-08-15T14:17:56.055Z",
   "created_by": "saamturner",
-  "updated_at": "2025-08-15T14:17:56.055Z",
-  "updated_by": "saamturner"
+  "updated_at": "2025-08-15T14:18:44.387Z",
+  "updated_by": "saamturner",
+  "av_file_order": [
+    "d2e7beca-6b45-41e1-b110-bb26bd142e25"
+  ]
 }
