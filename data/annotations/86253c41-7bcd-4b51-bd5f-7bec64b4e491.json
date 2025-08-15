@@ -1,5 +1,875 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Michael does not use the standard anti-expressionist delivery typical of most read poetry, and instead adopts a stern, confident voice. His voice is also raised, notably speaking louder than Natalie, as if talking over her. However, this dynamic is complicated, naturally the intention behind these words, if we are to imagine it in a realistic scenario, is not to enforce power, rather it is to of course protect his daughter, though the difference depends on context, and in this scene we are offered little. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "f6cf3fad-a6e2-40b0-84eb-c25fb44c4660"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Defiant and immature high-pitched tone, indicative of her status as a younger child at this point in the poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "459f28ba-71f2-4e34-91b4-9c9255a19acb"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "annotation": [
+        {
+          "text": "As discussed in the "
+        },
+        {
+          "text": "Unpsalmic Psalm",
+          "italic": true
+        },
+        {
+          "text": " section, 'I don't like that Judy kid, stay away' seems to be a line simultaniously depicting a parent being concerned about their child's influences, but also a return to the origins of religious poetry. Though there is no explicit mention of religion within the poem, Basinski's break from conventional, anti-expressivist poetry performance is also a break from very thing that spawned that type of reading: Religious ritual and readings. Because he takes the reading in a more realistic and expressive manner, he divulges from religious influence, yet his content replicates the roots of religious reading, the psalms. The very fist psalm is one that warns against the dangers of bad influences and unhealthy associations, and is practically mirrored by the line 'I don't like that Judy kid, Stay away.\" "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "6abaf695-1b8a-4595-bbd0-62c40d47c1a0"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Natalie's tone comes across as if she's trying to reason with her father, followed by a disappointed sigh as he does not seem share any desire to reason in response. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "65942189-9488-46af-9a37-406833800cf0"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uncertain if this purposefully unclear or not, but the content of the line is lost under the jumble of dialogue. Perhaps the vagueness purports that it is not the words itself that are to be focused on, rather it is the intention behind them that is important; as, despite how the father daughter seem in constant conflict with their expressed tonalities, their relationship persists. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "1d4a88b5-44ee-4330-aa50-e04bb233be3e"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Michael's tone during the lines 'Be careful' and 'Slow down' are quite different than his previous deliveries, as if he is antecedently talking to a very infantile child. This offers more context to the disposition Michael has towards Natalie, perhaps seeing her as younger and more inconsiderate than she really is. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "90fe4ead-1fe8-478f-a90f-80099c4be177"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Long and drawn out delivery, reflective of a child's begrudging tonality.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "e8796aab-86fa-4cc7-a0fa-daba0b6dc1d4"
+    },
+    {
+      "start_time": 11,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These two lines spoken by Natalie are nearly opposite in their delivery, the first, a pleading, high pitched, loud and almost annoyed tonality. The second, a more confident, though quiet, lower pitched statement. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "96c3f47b-2398-4913-bfaa-38d81d8e0414"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Michael's lines here are posed in an absurd, dumbfounded manner, as if to ask 'How could you forget?' This is incredibly ironic considering that later on Michael describes himself losing two items."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "caea7ac3-4b05-41b8-82be-2ac619fb6194"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unclear dialogue, primarily due to Michael talking over her, as well as how quietly Natalie delivers the line. The previous question Michael asks sets up the assumtion that Natalie's following line is what answers it, and if we are to assume this, then her delivery seems at attempt at justifying what she's doing, using a high pitched and docile tone. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "73feb81e-baee-41e1-8524-9ea252ef33a3"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The fact that Michael says her curfew is midnight indicates Natalie is an adolescent or young adult, instead of the infantile child he seems to be referring to in the earlier lines. Additionally, his line delivery is not as authoritarian as his previous ones, as he adopts a softer, pleading voice. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "89a1f255-11b1-469d-bd16-0f268bc0d0f7"
+    },
+    {
+      "start_time": 18,
+      "end_time": 24,
+      "annotation": [
+        {
+          "text": "Michael's lines are quite ironic considering that by the end of the recording, Natalie not only does not require the guidance of her father, but also is responsible herself for giving guidance to Michael. Additionally, the fact that this line marks the beginning of the duo's role switch makes it particularly ironic. \n\nIn a related but separate matter, it also indulges into religious reference. As mentioned in the "
+        },
+        {
+          "text": "Unpsalmic Psalm",
+          "italic": true
+        },
+        {
+          "text": " page, Michael replicates the parental guidance of biblical warnings; and specifically seems to replicate Proverbs. Within the sections of Solomon writing to his sons, he repeatedly mentions how they should listen to him, and that his advice will always be important in their lives. Michael seems to do the same. \n"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        }
+      ],
+      "uuid": "1504b7e4-4696-4858-a6a6-c13580929e3d"
+    },
+    {
+      "start_time": 19,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This line delivery is quite a contrast to how Natalie speaks previously, as if she is vocally demonsrating her maturity. She speaks deeper, slower, and sterner than before, replicating what she says. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "6ddf0e3e-3a18-4a21-9a39-c7ea975377ed"
+    },
+    {
+      "start_time": 21,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Notably louder than her previous lines, though interestingly this is the first time Natalie is discernably louder than Michael. She also carries a defiant, almost impolite tone, as if rebelling. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "f89c4a74-640a-4fc2-b614-8e322c31a00f"
+    },
+    {
+      "start_time": 24,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Spoken with a seemingly forced low voice, as if either to dramatically emphasize her maturity, or in an impression of her father's voice. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "11e53c3a-47e0-4160-914b-cced9a04c238"
+    },
+    {
+      "start_time": 24,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This marks the point in the poem where the roles begin to switch. Due to this sudden mention of age, as well as the beginning of role switch (as well as the infantile subject matter of the earlier lines), this poem is representative of a long span of time, presumably a depiction of multiple years, simplified into the form of a single conversation.  As Natalie ages, so too does Michael, her growing mature, and him growing potentially senile (or at least having diminished faculties)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        }
+      ],
+      "uuid": "737b3b13-317a-4a68-8ac9-ace4f9785a3e"
+    },
+    {
+      "start_time": 29,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "First emergence of an unsure tonality of Michael, as previously he has remained rather stern and all the while confident. He quickly corrects his unsure tone by following it up with confidence similar to the initial lines, suggesting that Michael is rather insecure about his growing age. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "67c7c1e3-ae63-4400-bee5-99f78150303e"
+    },
+    {
+      "start_time": 30,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somewhat unclear, though intriguingly undeterred by Michael speaking at the exact same time, as if she is trying to demonstrate her autonomy is not stifled by her father, mirrored by the content of her line. Additionally, her delivery is long, and drawn out, notably slower than many of her and Michael's other spoken lines, perhaps implying both defiance and a resolute independence. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "d741302f-0dc6-4197-a4fb-38c18343bd52"
+    },
+    {
+      "start_time": 33,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "'You're old now' is the first line spoken by Natalie demonstrating the the role switch, replicating the opposite of Michael's line 'You're still my kid.' "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "21cca540-b318-4e4d-84e7-dda577368b7d"
+    },
+    {
+      "start_time": 35,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the first exact mirrored line from the duo, Natalie saying 'I can take care of myself' only 12 seconds  before Michael does. I'm not sure the exact timeline Basinki tries to imply, but the simple fact that these two lines are quite close together may suggest that the complete switching of responsibility between formerly adolescent child and now aging parent is rather rapid, both parties similarly vying for independence, though requiring the assistance of the other. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "a4a100fc-98a4-43cd-a72d-8846ac467ce1"
+    },
+    {
+      "start_time": 40,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Natalie replicates the soft tonality delivered in her father's version of the line. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "68b36042-e9d3-4c5b-a5fa-ba55c9d4caf1"
+    },
+    {
+      "start_time": 43,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If this sound effect is similarly a reflection of Michael's lines, it implies that Michael was feeling similar annoyance and frustration when dealing with the young Natalie. Where she annoyedly huffs, he commands sternly, differenciating their modes of anger. It is also far louder than most other lines given by Natalie, either: 1, implicating that to her, volume is command, a lesson taught by her father. Or 2, that the only way she can enforce her own will is through an outburst of emotion. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "a790fe9c-3d98-4b44-98be-37ce13744192"
+    },
+    {
+      "start_time": 44,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Michael explains that he has lost a few items, though this conflict is oddly missing from Natalie's lines in the beginning of the poem, even though Natalie repeats Michael's \"You forgot.\" This indicates perhaps Natalie hid the fact that she lost items as a child, showcasing the typical guilt of a child."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "598bb618-1527-4928-bb4c-5809cd4c2b33"
+    },
+    {
+      "start_time": 45,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Natalie's delivery of 'You forgot?' almost exactly resembles the delivery of Michael when previously saying the same line, depicting their similarities in both content and delivery."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "f51a99d2-e037-427c-8365-70799a0eab59"
+    },
+    {
+      "start_time": 49,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Michael mentions that he will be home in time for supper, indicating that, despite their almost constant contention, Natalie and Michael still live together.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "b839116e-c6d1-4547-8d29-ff190851281c"
+    },
+    {
+      "start_time": 50,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The rest of Natalie's lines come in rather rapid succession, and in replication of how her father spoke to her in the beginning of the poem. These lines are exactly the same, ending with with a duplication of her father's words. The exact replication in reverse order not only implies that their roles as parent and child have swapped, but also that Natalie embodies her father more and more as she matures, and though they have had disagreements, she resembles him enough to give the exact instructions to him that he gave to her. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "23bb75ea-581e-479c-9f61-4a51f972eaae"
+    },
+    {
+      "start_time": 52,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When looking at the  'Stay away' line through the lens of religious subtext discussed in Unpsalmic Psalm section, it becomes interesting why this line replicated as well. It implies the need for a recognition that parents should similarly listen to their children, just as children should listen to their parents. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "87871dc9-0afa-403f-8079-574df9a6c0f0"
+    },
+    {
+      "start_time": 53,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As with Natalie, Michael ends with the same exact lines given by Natalie in the beginning of the poem delivered with similar tonality, indicating that he has also become more like his daughter as much as she has become more like himself. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "d0fe6707-830f-4f24-bc71-9b80ee548318"
+    },
+    {
+      "start_time": 56,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In finality, there is no point in the dialogue where speaker's tone softens to the point of tenderness and pure affection. This seems a depiction of a complex relationship demonstrating that, despite the emotional conflict, both speakers are always in support throughout both of their times of needing assistance. It is not the words, or their tonality, but rather the intention of love underlying the chastisement that keeps these two close."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natalie"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "7f59851b-4c0b-4342-84c2-422f4fcd8d8e"
+    }
+  ],
   "event_id": "08a12756-1267-454e-9885-e8a219c5d811",
   "set": "Commentary",
   "source_id": "2617f2df-1477-444b-9dd3-da98d77b7e9b"
