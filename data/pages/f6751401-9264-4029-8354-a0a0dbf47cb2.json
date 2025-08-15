@@ -513,15 +513,15 @@
       ]
     }
   ],
-  "title": "[LINA ESSAY] Introduction to Red",
+  "title": "Introduction to Red",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "lina-essay-introduction-to-red",
+  "slug": "introduction-to-red",
   "created_at": "2025-08-13T16:19:14.674Z",
   "created_by": "saamturner",
-  "updated_at": "2025-08-15T14:52:35.389Z",
+  "updated_at": "2025-08-15T14:53:44.906Z",
   "updated_by": "saamturner",
   "parent": "66fb9900-3335-426d-9b19-783d7f6f4a50"
 }
