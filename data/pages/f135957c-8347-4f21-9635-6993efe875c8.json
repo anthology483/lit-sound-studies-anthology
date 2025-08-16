@@ -38,7 +38,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "(Image credit: Paul Klee, \"Movement of Vaulted Chambers,\" Metropolitan Museum of Art)"
                 }
               ]
             }
@@ -68,7 +68,19 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "Student Projects",
+                  "textSize": "heading-two",
+                  "bold": true
+                }
+              ],
+              "align": "left"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/events/mikhaela-annotates-kays-when-love-arrives/"
                 }
               ]
             },
@@ -76,8 +88,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Mikhaela Annotates Sarah Kay's \"When Love Arrives\"",
-                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/events/mikhaela-annotates-kays-when-love-arrives/"
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/events/mikhaela-annotates-kays-when-love-arrives/",
+                  "text": "Mikhaela Annotates Sarah Kay's \"When Love Arrives\""
                 }
               ]
             },
@@ -941,11 +953,12 @@
   ],
   "created_at": "2025-08-12T21:40:42.280Z",
   "created_by": "saamturner",
-  "title": "August Testing on English 483 Org.",
-  "updated_at": "2025-08-16T01:06:39.531Z",
+  "title": "Literary Sound Studies Anthology",
+  "updated_at": "2025-08-16T01:11:10.921Z",
   "updated_by": "saamturner",
   "autogenerate": {
     "enabled": false,
     "type": "home"
-  }
+  },
+  "slug": "literary-sound-studies-anthology"
 }
