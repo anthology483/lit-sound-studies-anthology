@@ -11,6 +11,51 @@
     {
       "type": "grid",
       "layout": [
+        6
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
         3,
         3
       ],
@@ -558,7 +603,36 @@
                   "link": "https://anthology483.github.io/lit-sound-studies-anthology/pages/introduction-to-michael-ondaatjes-the-cinna/"
                 },
                 {
-                  "text": "\n\n"
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Shelby Annotates Charles Bernstein's \"1-100\"",
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/events/shelby-annotates-bernsteins-1-100/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "       "
+                },
+                {
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/pages/introduction-to-1-100/",
+                  "text": "Introduction to \"1-100\""
                 }
               ]
             },
@@ -582,7 +656,70 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "Astrid Annotates Charles Bernstein's \"1-100\"",
+                  "link": "Charles Bernstein's \"1-100\""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "       "
+                },
+                {
+                  "text": "Uncovering a Lifespan Narrative in Counting from One to One Hundred",
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/pages/uncovering-a-lifespan-narrative-in-counting-f/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\nIyla Annotates Charles Bernstein's \"1-100\"",
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/events/iyla-annotates-bernsteins-1-100/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "       "
+                },
+                {
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/pages/expanding-literary-studies-through-annotation/",
+                  "text": "Expanding Literary Studies through Annotation: Charles Bernstein's Eccentric \"1-100\""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\nFrancine Annotates Maya Angelou's \"Still I Rise\"",
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/events/francine-annotates-angelous-still-i-rise/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "       "
+                },
+                {
+                  "text": "Still I Rise: Introduction",
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/pages/still-i-rise-introduction/"
                 }
               ]
             },
@@ -599,6 +736,179 @@
               "children": [
                 {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Meriah Annotates Maya Angelou's \"Still I Rise\"",
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/events/meriah-annotates-angelous-still-i-rise/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "       "
+                },
+                {
+                  "text": "Analysis of Figure of Speech",
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/pages/analysis-of-figure-of-speech/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/pages/analysis-of-figure-of-speech/",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/pages/analysis-of-figure-of-speech/",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Brenden Annotates Maya Angelou's \"Still I Rise\"",
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/events/brenden-annotates-angelous-still-i-rise/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "       "
+                },
+                {
+                  "text": "Amplifying Empowerment: Annotating and Understanding Maya Angelou's Spoken Word Poem, \"Still I Rise\"",
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/pages/amplifying-empowerment-annotating-and-unders/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Reagen Annotates Maya Angelou's \"Still I Rise\"",
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/events/reagan-annotates-angelous-still-i-rise/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "       "
+                },
+                {
+                  "text": "Reflective Essay: Maya Angelou's Poem \"Still I Rise\"",
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/pages/reflective-essay-maya-angelous-poem-still/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/pages/reflective-essay-maya-angelous-poem-still/",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/pages/reflective-essay-maya-angelous-poem-still/",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Zenovia Annotates Maya Angelou's \"Still I Rise\"",
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/events/zenovia-annotates-angelous-still-i-rise/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "       "
+                },
+                {
+                  "text": "Annotating Angelou's \"Still I Rise\"",
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/pages/annotation-of-angelous-still-i-rise/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Summer Annotates Maya Angelou's \"Still I Rise\"",
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/events/summer-annotates-angelous-still-i-rise/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "       "
+                },
+                {
+                  "text": "Reflective Essay on Angelou's \"Still I Rise\"",
+                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/pages/reflective-essay-on-angelous-still-i-rise/"
                 }
               ]
             }
@@ -631,7 +941,7 @@
   "created_at": "2025-08-12T21:40:42.280Z",
   "created_by": "saamturner",
   "title": "August Testing on English 483 Org.",
-  "updated_at": "2025-08-15T23:49:51.847Z",
+  "updated_at": "2025-08-16T00:28:45.884Z",
   "updated_by": "saamturner",
   "autogenerate": {
     "enabled": false,
