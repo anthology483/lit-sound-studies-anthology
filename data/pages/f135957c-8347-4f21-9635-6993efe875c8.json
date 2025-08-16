@@ -24,24 +24,25 @@
                   "text": ""
                 }
               ]
+            },
+            {
+              "type": "image",
+              "url": "https://ia801005.us.archive.org/3/items/your-paragraph-text-4_202508/Your%20paragraph%20text%20%284%29.png",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -225,7 +226,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Jonathan Annotates Michael Basinkski's \"Parent + Child Heebee-Jeebies\"",
+                  "text": "Jonathan Annotates Michael Basinski's \"Parent + Child Heebee-Jeebies\"",
                   "link": "https://anthology483.github.io/lit-sound-studies-anthology/events/jonathan-annotates-owens-parent-child-hee/"
                 }
               ]
@@ -941,7 +942,7 @@
   "created_at": "2025-08-12T21:40:42.280Z",
   "created_by": "saamturner",
   "title": "August Testing on English 483 Org.",
-  "updated_at": "2025-08-16T00:28:45.884Z",
+  "updated_at": "2025-08-16T01:06:39.531Z",
   "updated_by": "saamturner",
   "autogenerate": {
     "enabled": false,
