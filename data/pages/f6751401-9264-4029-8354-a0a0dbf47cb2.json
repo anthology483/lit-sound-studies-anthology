@@ -221,31 +221,101 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "\nBlack, Jaime. The REDress Project. 2010."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Clement, Tanya, and Liz Fischer. \"Audiated Annotation from the Middle Ages to the Open Web.\" Digital Humanities Quarterly 15, no. 1, 5 March 2021."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Eidsheim, Nina Sun. "
+                },
+                {
+                  "text": "The Race of Sound: Listening, Timbre, and Vocality in African American Music.",
+                  "italic": true
+                },
+                {
+                  "text": " Duke University Press, 2019. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Robinson, Dylan. "
+                },
+                {
+                  "text": "Hungry Listening: Resonant Theory for Indigenous Sound Studies",
+                  "italic": true
+                },
+                {
+                  "text": ". University of Minnesota Press, 2020. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\n\n\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": "\n\n"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "\n\n\n"
                 }
               ]
             },
@@ -521,7 +591,7 @@
   "slug": "introduction-to-red",
   "created_at": "2025-08-13T16:19:14.674Z",
   "created_by": "saamturner",
-  "updated_at": "2025-08-15T14:53:44.906Z",
+  "updated_at": "2025-10-02T19:17:33.171Z",
   "updated_by": "saamturner",
   "parent": "66fb9900-3335-426d-9b19-783d7f6f4a50"
 }
