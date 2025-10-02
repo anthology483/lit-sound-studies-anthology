@@ -50,18 +50,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n"
-        },
-        {
-          "text": "Student Projects",
+          "text": "\nStudent Projects",
           "textSize": "heading-two"
         }
       ],
@@ -69,8 +58,10 @@
     },
     {
       "type": "paragraph",
+      "align": "center",
       "children": [
         {
+          "textSize": "heading-two",
           "text": ""
         }
       ]
@@ -569,7 +560,7 @@
                   "url": "https://anthology483.github.io/lit-sound-studies-anthology/events/victoria-annotates-ondaatjes-the-cinnamon-p/",
                   "children": [
                     {
-                      "text": "\n"
+                      "text": ""
                     }
                   ]
                 },
@@ -581,10 +572,26 @@
                   "url": "https://anthology483.github.io/lit-sound-studies-anthology/pages/do-not-go-gentle-into-that-good-night-refle/",
                   "children": [
                     {
-                      "text": "\n"
+                      "text": ""
                     }
                   ]
                 },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
                 {
                   "text": ""
                 }
@@ -626,7 +633,23 @@
                   ]
                 },
                 {
-                  "text": "\n\n"
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -674,13 +697,57 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n"
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://anthology483.github.io/lit-sound-studies-anthology/pages/introduction-to-1-100/",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "text": ""
                 }
               ]
             },
             {
               "type": "paragraph",
               "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://anthology483.github.io/lit-sound-studies-anthology/pages/introduction-to-1-100/",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://anthology483.github.io/lit-sound-studies-anthology/pages/introduction-to-1-100/",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
                 {
                   "text": ""
                 },
@@ -723,13 +790,29 @@
               "children": [
                 {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 },
                 {
                   "type": "link",
                   "url": "https://anthology483.github.io/lit-sound-studies-anthology/events/iyla-annotates-bernsteins-1-100/",
                   "children": [
                     {
-                      "text": "\n\nIyla Annotates Charles Bernstein's \"1-100\""
+                      "text": "Iyla Annotates Charles Bernstein's \"1-100\""
                     }
                   ]
                 },
@@ -771,13 +854,21 @@
               "children": [
                 {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 },
                 {
                   "type": "link",
                   "url": "https://anthology483.github.io/lit-sound-studies-anthology/events/francine-annotates-angelous-still-i-rise/",
                   "children": [
                     {
-                      "text": "\nFrancine Annotates Maya Angelou's \"Still I Rise\""
+                      "text": "Francine Annotates Maya Angelou's \"Still I Rise\""
                     }
                   ]
                 },
@@ -810,13 +901,57 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n"
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://anthology483.github.io/lit-sound-studies-anthology/pages/still-i-rise-introduction/",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "text": ""
                 }
               ]
             },
             {
               "type": "paragraph",
               "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://anthology483.github.io/lit-sound-studies-anthology/pages/still-i-rise-introduction/",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://anthology483.github.io/lit-sound-studies-anthology/pages/still-i-rise-introduction/",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
                 {
                   "text": ""
                 },
@@ -859,6 +994,22 @@
               "children": [
                 {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 },
                 {
                   "type": "link",
@@ -869,26 +1020,6 @@
                     }
                   ]
                 },
-                {
-                  "text": ""
-                },
-                {
-                  "type": "link",
-                  "url": "https://anthology483.github.io/lit-sound-studies-anthology/pages/analysis-of-figure-of-speech/",
-                  "children": [
-                    {
-                      "text": "\n"
-                    }
-                  ]
-                },
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
                 {
                   "text": ""
                 },
@@ -930,13 +1061,57 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n"
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://anthology483.github.io/lit-sound-studies-anthology/pages/amplifying-empowerment-annotating-and-unders/",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "text": ""
                 }
               ]
             },
             {
               "type": "paragraph",
               "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://anthology483.github.io/lit-sound-studies-anthology/pages/amplifying-empowerment-annotating-and-unders/",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://anthology483.github.io/lit-sound-studies-anthology/pages/amplifying-empowerment-annotating-and-unders/",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
                 {
                   "text": ""
                 },
@@ -979,6 +1154,22 @@
               "children": [
                 {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 },
                 {
                   "type": "link",
@@ -989,26 +1180,6 @@
                     }
                   ]
                 },
-                {
-                  "text": ""
-                },
-                {
-                  "type": "link",
-                  "url": "https://anthology483.github.io/lit-sound-studies-anthology/pages/reflective-essay-maya-angelous-poem-still/",
-                  "children": [
-                    {
-                      "text": "\n"
-                    }
-                  ]
-                },
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
                 {
                   "text": ""
                 },
@@ -1050,13 +1221,57 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n"
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://anthology483.github.io/lit-sound-studies-anthology/pages/annotation-of-angelous-still-i-rise/",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "text": ""
                 }
               ]
             },
             {
               "type": "paragraph",
               "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://anthology483.github.io/lit-sound-studies-anthology/pages/annotation-of-angelous-still-i-rise/",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://anthology483.github.io/lit-sound-studies-anthology/pages/annotation-of-angelous-still-i-rise/",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
                 {
                   "text": ""
                 },
@@ -1118,7 +1333,7 @@
   "created_at": "2025-08-12T21:40:42.280Z",
   "created_by": "saamturner",
   "title": "Literary Sound Studies Anthology",
-  "updated_at": "2025-10-02T19:00:16.006Z",
+  "updated_at": "2025-10-02T19:48:38.689Z",
   "updated_by": "saamturner",
   "autogenerate": {
     "enabled": false,
