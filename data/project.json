@@ -1,1 +1,182 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"tanyaclement","avatar_url":"https://avatars.githubusercontent.com/u/1213771?v=4","admin":true},{"login_name":"saamturner","avatar_url":"https://avatars.githubusercontent.com/u/157153031?v=4","admin":true}],"project":{"github_org":"anthology483","is_private":false,"title":"Literary Sound Studies: English 483 Class Anthology","description":"This anthology showcases 22 student projects created in Dr. Michael O'Driscoll's Winter 2025 Literary Sound Studies course at the University of Alberta. ","language":"en","slug":"lit-sound-studies-anthology","creator":"saamturner","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Background","color":"#ADFFD9"},{"color":"#99AFF2","category":"Form"},{"category":"Performance","color":"#99E6FF"},{"category":"Extra-Poetic Sounds","color":"#88C9F2"},{"color":"#B3B3E6","category":"Uncategorized"}],"tags":[{"tag":"Transcription","category":"Background"},{"tag":"Context","category":"Background"},{"tag":"Identification","category":"Background"},{"tag":"Definition","category":"Background"},{"tag":"Caesura","category":"Form"},{"tag":"Rhyme","category":"Form"},{"tag":"Meter","category":"Form"},{"tag":"Verse Structure","category":"Form"},{"tag":"Tempo","category":"Performance"},{"tag":"Pitch","category":"Performance"},{"tag":"Duration","category":"Performance"},{"tag":"Amplitude","category":"Performance"},{"tag":"Timbre","category":"Performance"},{"tag":"Technical Sounds","category":"Extra-Poetic Sounds"},{"tag":"Speech","category":"Extra-Poetic Sounds"},{"tag":"Ambient Noise","category":"Extra-Poetic Sounds"},{"tag":"Audience Sounds","category":"Extra-Poetic Sounds"},{"category":"Uncategorized","tag":"Extra-Poetic Sound"},{"category":"Uncategorized","tag":"Volume"},{"category":"Uncategorized","tag":"Michael"},{"category":"Uncategorized","tag":"Natalie"},{"category":"Uncategorized","tag":"Audience Sound"},{"category":"Uncategorized","tag":"Title"},{"category":"Uncategorized","tag":"Altered"},{"category":"Uncategorized","tag":"Laugh"}]},"created_at":"2025-08-12T21:40:42.261Z","updated_at":"2025-08-16T01:51:14.074Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"f135957c-8347-4f21-9635-6993efe875c8":{"content":[],"created_at":"2025-08-12T21:40:42.280Z","created_by":"saamturner","title":"August Testing on English 483 Org.","updated_at":"2025-08-12T21:40:42.280Z","updated_by":"saamturner","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["f135957c-8347-4f21-9635-6993efe875c8"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": true
+    },
+    {
+      "login_name": "saamturner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "anthology483",
+    "is_private": false,
+    "title": "Literary Sound Studies: English 483 Class Anthology",
+    "description": "This anthology showcases 22 student projects created in Dr. Michael O'Driscoll's Winter 2025 Literary Sound Studies course at the University of Alberta. ",
+    "language": "en",
+    "slug": "lit-sound-studies-anthology",
+    "creator": "saamturner",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Background",
+          "color": "#ADFFD9"
+        },
+        {
+          "color": "#99AFF2",
+          "category": "Form"
+        },
+        {
+          "category": "Performance",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Extra-Poetic Sounds",
+          "color": "#88C9F2"
+        },
+        {
+          "color": "#B3B3E6",
+          "category": "Uncategorized"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "tag": "Definition",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Rhyme",
+          "category": "Form"
+        },
+        {
+          "tag": "Meter",
+          "category": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Technical Sounds",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "category": "Uncategorized",
+          "tag": "Extra-Poetic Sound"
+        },
+        {
+          "category": "Uncategorized",
+          "tag": "Volume"
+        },
+        {
+          "category": "Uncategorized",
+          "tag": "Michael"
+        },
+        {
+          "category": "Uncategorized",
+          "tag": "Natalie"
+        },
+        {
+          "category": "Uncategorized",
+          "tag": "Audience Sound"
+        },
+        {
+          "category": "Uncategorized",
+          "tag": "Title"
+        },
+        {
+          "category": "Uncategorized",
+          "tag": "Altered"
+        },
+        {
+          "category": "Uncategorized",
+          "tag": "Laugh"
+        }
+      ]
+    },
+    "created_at": "2025-08-12T21:40:42.261Z",
+    "updated_at": "2025-10-02T18:49:01.985Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "f135957c-8347-4f21-9635-6993efe875c8": {
+      "content": [],
+      "created_at": "2025-08-12T21:40:42.280Z",
+      "created_by": "saamturner",
+      "title": "August Testing on English 483 Org.",
+      "updated_at": "2025-08-12T21:40:42.280Z",
+      "updated_by": "saamturner",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "f135957c-8347-4f21-9635-6993efe875c8"
+  ]
+}
