@@ -48,90 +48,11 @@
     },
     {
       "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "textSize": "heading-two"
-        }
-      ],
-      "align": "center"
-    },
-    {
-      "type": "paragraph",
       "align": "center",
       "children": [
         {
           "textSize": "heading-two",
           "text": "\nStudent Projects"
-        }
-      ]
-    },
-    {
-      "type": "grid",
-      "layout": [
-        3,
-        3
-      ],
-      "children": [
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "",
-                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/pages/poetry-for-the-masses-an-annotation-reflecti/"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "",
-                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/pages/introduction-to-red/"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "",
-                  "link": "https://anthology483.github.io/lit-sound-studies-anthology/pages/reading-red-decolonized-interpretations-and/"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                },
-                {
-                  "type": "link",
-                  "url": "https://anthology483.github.io/lit-sound-studies-anthology/events/victoria-annotates-ondaatjes-the-cinnamon-p/",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
-                },
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "column",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
         }
       ]
     },
@@ -1546,7 +1467,7 @@
   "created_at": "2025-08-12T21:40:42.280Z",
   "created_by": "saamturner",
   "title": "Literary Sound Studies Anthology",
-  "updated_at": "2025-10-08T19:54:16.765Z",
+  "updated_at": "2025-10-09T00:50:13.994Z",
   "updated_by": "saamturner",
   "autogenerate": {
     "enabled": false,
