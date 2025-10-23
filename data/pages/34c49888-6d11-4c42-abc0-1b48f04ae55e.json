@@ -1,11 +1,22 @@
 {
   "content": [
     {
-      "type": "block-quote",
+      "type": "paragraph",
       "children": [
         {
-          "text": "And so yes, I do fetishize the acoustic inscription of the poet’s voice, or at least I find it aesthetically significant, partly because doing so returns voice from sometimes idealized projections of self in the style of a poem to its social materiality, to voicing and voices. In that sense, though, any performance of a poem is an exemplary interpretation, that is, one that imagines itself as rehearsal rather than as a finalization. ",
-          "italic": true
+          "text": "By Shelby Hawryluk",
+          "textSize": "heading-three"
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "block-quote",
+      "align": "left",
+      "children": [
+        {
+          "italic": true,
+          "text": "And so yes, I do fetishize the acoustic inscription of the poet’s voice, or at least I find it aesthetically significant, partly because doing so returns voice from sometimes idealized projections of self in the style of a poem to its social materiality, to voicing and voices. In that sense, though, any performance of a poem is an exemplary interpretation, that is, one that imagines itself as rehearsal rather than as a finalization. "
         },
         {
           "text": "\n\n— Charles Bernstein, “Hearing Voices,” "
@@ -14,8 +25,7 @@
           "text": "Attack of the Difficult Poems",
           "italic": true
         }
-      ],
-      "align": "left"
+      ]
     },
     {
       "type": "grid",
@@ -304,6 +314,6 @@
   "slug": "introduction-to-1-100",
   "created_at": "2025-08-13T14:58:36.194Z",
   "created_by": "saamturner",
-  "updated_at": "2025-08-13T14:58:36.194Z",
+  "updated_at": "2025-10-23T17:04:57.341Z",
   "updated_by": "saamturner"
 }
