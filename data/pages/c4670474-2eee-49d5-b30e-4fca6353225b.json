@@ -4,6 +4,15 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "By Zenovia Rayment-Evans",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -246,7 +255,7 @@
   "slug": "annotation-of-angelous-still-i-rise",
   "created_at": "2025-08-13T16:27:54.621Z",
   "created_by": "saamturner",
-  "updated_at": "2025-08-15T14:50:18.542Z",
+  "updated_at": "2025-10-23T17:06:23.652Z",
   "updated_by": "saamturner",
   "parent": "618c42fa-6a24-44ed-bf0d-a1a053d38a2e"
 }
