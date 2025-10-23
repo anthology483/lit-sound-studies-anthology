@@ -4,6 +4,15 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "By Haylee Deakin",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -192,6 +201,6 @@
   "slug": "do-not-go-gentle-into-that-good-night-refle",
   "created_at": "2025-08-13T14:41:21.235Z",
   "created_by": "saamturner",
-  "updated_at": "2025-08-13T14:41:21.235Z",
+  "updated_at": "2025-10-23T16:56:03.673Z",
   "updated_by": "saamturner"
 }
