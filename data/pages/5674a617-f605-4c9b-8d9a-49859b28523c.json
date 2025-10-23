@@ -4,7 +4,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "By Devin Hobbs",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -600,6 +601,6 @@
   "slug": "reading-red-decolonized-interpretations-and",
   "created_at": "2025-08-13T15:04:43.059Z",
   "created_by": "saamturner",
-  "updated_at": "2025-08-13T15:04:43.059Z",
+  "updated_at": "2025-10-23T17:00:47.244Z",
   "updated_by": "saamturner"
 }
